@@ -4,7 +4,7 @@ function logar(){
 
     if(login == "jaoalfrdo@gmail.com" && senha == "joaoalfredo12"){
         alert('sucesso');
-        location.href = "Site.html"
+        location.href = "site.html"
     }
     else{
         alert('Usuario ou senha incorretos')
