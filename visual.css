@@ -65,18 +65,3 @@ header .menu a:hover{
     color: #444;
     background-color: white;
 }
-
-@media (max-width: 500px) {
-  .principal .links a {
-    padding: 20px;
-    font-size: 1.3rem;
-  }
-  header .menu a {
-    padding: 20px;
-    font-size: 1.2rem;
-  }
-  .principal h2 {
-    font-size: 5rem;
-  }
-}
-
